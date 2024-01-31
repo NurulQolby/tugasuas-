@@ -1,0 +1,19 @@
+
+
+.timbul1:hover {
+   background: linear-gradient( to right, yellow,purple);
+}
+
+.timbul2:hover {
+    background: linear-gradient( to right, green,red);
+}
+.timbul3:hover {
+    background: linear-gradient( to right,blue,orange);
+}
+
+.map{
+
+    background-color: darkslategrey;
+    
+}
+
